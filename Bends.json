@@ -1,0 +1,55 @@
+{
+  "name": "ClearVision V7 Amethyst",
+  "description": "Custom ClearVision Amethyst theme with animated GIF background.",
+  "authors": [
+    {
+      "name": "ClearVision Team"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#d8d8db", "#36363c"],
+    "HEADER_SECONDARY": ["#aeaeb4", "#75757e"],
+    "TEXT_NORMAL": ["#d8d8db", "#36363c"],
+    "TEXT_MUTED": ["#aeaeb4", "#75757e"],
+    "TEXT_LINK": ["#a71eb3", "#a71eb3"],
+    "INTERACTIVE_NORMAL": ["#d8d8db", "#36363c"],
+    "INTERACTIVE_HOVER": ["#a71eb3", "#a71eb3"],
+    "INTERACTIVE_ACTIVE": ["#ffffff", "#0a0a0a"],
+    "INTERACTIVE_MUTED": ["#75757e", "#aeaeb4"],
+    "BACKGROUND_PRIMARY": ["#0a0a0a4d", "#fcfcfc4d"],
+    "BACKGROUND_SECONDARY": ["#05050566", "#f2f2f566"],
+    "BACKGROUND_SECONDARY_ALT": ["#00000080", "#e6e6eb80"],
+    "BACKGROUND_TERTIARY": ["#00000099", "#dcdce099"],
+    "BACKGROUND_ACCENT": ["#a71eb3", "#a71eb3"],
+    "BACKGROUND_FLOATING": ["#0a0a0ad9", "#fcfcfcd9"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#0a0a0a4d", "#fcfcfc4d"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#00000066", "#f2f2f566"],
+    "CHAT_BACKGROUND": ["#00000000", "#00000000"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#14141480", "#e6e6eb80"],
+    "CHANNEL_ICON": ["#aeaeb4", "#75757e"],
+    "CHANNELS_DEFAULT": ["#aeaeb4", "#75757e"],
+    "STATUS_ONLINE": ["#ff00aa", "#ff00aa"],
+    "STATUS_IDLE": ["#000000", "#000000"],
+    "STATUS_DND": ["#ff0000", "#ff0000"],
+    "STATUS_OFFLINE": ["#000000", "#000000"]
+  },
+  "rawColors": {
+    "PRIMARY_500": "#aeaeb4",
+    "PRIMARY_600": "#0a0a0a4d",
+    "PRIMARY_630": "#05050566",
+    "PRIMARY_660": "#00000080",
+    "PRIMARY_700": "#00000099",
+    "PRIMARY_800": "#000000b3",
+    "BRAND_500": "#a71eb3",
+    "BRAND_560": "#8a1694",
+    "GREEN_360": "#08ff90",
+    "RED_400": "#ff0000",
+    "YELLOW_300": "#5d00ff"
+  },
+  "background": {
+    "url": "https://imgur.com",
+    "blur": 0,
+    "alpha": 1.0
+  },
+  "spec": 2
+}
